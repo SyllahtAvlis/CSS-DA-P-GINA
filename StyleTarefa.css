@@ -124,6 +124,8 @@ nav ul li:hover .dropdown-content {
     color: white;
     background-color: #00192e;
     box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+    display: flex;
+    justify-content: center;
 }
 
 input, textarea, select {
